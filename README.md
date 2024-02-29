@@ -31,3 +31,9 @@ This project implements a Travel Management System where users can create and ma
 *Sign Up Passengers:* Use TravelService to sign up passengers for activities.
 
 *Print Information:* Utilize ConsoleView to print itinerary, passenger lists, details, and available activities.
+
+
+# High Level Design Link
+
+https://drive.google.com/file/d/1oiB1nC4uWgMvYSM6VTGyCk-Y58lJISe9/view?usp=sharing
+
